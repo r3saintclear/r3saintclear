@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r3saintclear
 - 👀 I’m interested in cs
 - 🌱 I’m currently learning git hub
-- 💞️ I’m looking to collaborate.
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me r3saintclear@gmail.com
 
 <!---
